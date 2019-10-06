@@ -9,12 +9,12 @@ Um campo de busca. A aparência e comportamento do campo pode mudar ligeiramente
 ``<input type="search" name="busca">``
 
 - Datas e Horas
-``<input type="datetime" name="" >
-<input type="date" name="data" >
-<input type="month" name="mes" >
-<input type="week" name="semana" >
-<input type="time" name="hora" >
-<input type="datetime-local" name="data-hora" >``
+``<input type="datetime" name="data" >``
+``<input type="date" name="data" >``
+``<input type="month" name="mes" >``
+``<input type="week" name="semana" >``
+``<input type="time" name="hora" >``
+``<input type="datetime-local" name="data-hora" >``
 
 - Number
 Por padrão o campo utiliza números inteiros, para alterar para decimal você precisa alterar o atributo `step` com um valor fracionado, exemplo `0.2`.
