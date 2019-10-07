@@ -1,5 +1,5 @@
 # HTML5 e CSS3 com farinha e pimenta
-Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de Diego Eis e Élcio Ferreira.
+Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https://github.com/diegoeis) e [Élcio Ferreira](https://github.com/elcio).
 
 ---
 
@@ -8,3 +8,5 @@ Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de Diego Eis e Élcio 
     - [tipos de dados e validadores](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/tipos-de-dados-e-validadores.md)
     - [validação de formulários](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/validacao-de-formulario.md)
     - [custom validators](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/custom-validators.md)
+- Conteúdo
+    - [detalhes e conteúdo editavel](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/detalhes-e-conteudo-editavel.md)
