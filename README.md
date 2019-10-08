@@ -1,5 +1,5 @@
 # HTML5 e CSS3 com farinha e pimenta
-Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https://github.com/diegoeis) e [Élcio Ferreira](https://github.com/elcio).
+Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https://github.com/diegoeis) @diegoeis e [Élcio Ferreira](https://github.com/elcio) @elcio.
 
 ---
 
