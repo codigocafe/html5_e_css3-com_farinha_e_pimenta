@@ -11,3 +11,4 @@ Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https:/
 - Conteúdo
     - [detalhes e conteúdo editavel](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/detalhes-e-conteudo-editavel.md)
     - [drag-n-drop e correção ortográfica](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/drag-n-drop-e-correcao-ortografica.md)
+    - [elementos audio e video, e codecs](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/elementos-audio-e-videos-codecs.md)
