@@ -18,4 +18,4 @@ Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https:/
 
 ## A nova geração de aplicações web I
 
-- (MathML)[https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/mathml.md]
+- [MathML](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/mathml.md)
