@@ -20,3 +20,5 @@ Exercícios do livro "HTML5 e CSS3 com farinha e pimenta" de [Diego Eis](https:/
 
 - [MathML](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/mathml.md)
 - [SVG](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/svg.md)
+- [canvas API](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/canvas-api.md)
+- [Canvas VS SVG](https://github.com/codigocafe/html5_e_css3-com_farinha_e_pimenta/blob/master/docs/canvas-vs-svg.md)
